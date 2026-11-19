@@ -1,0 +1,12 @@
+# Source videos and generated clips stay out of git
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.m4a
+*.wav
+clips/
+input/
+transcripts/
+__pycache__/
+.DS_Store
